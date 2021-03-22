@@ -1,6 +1,6 @@
 # VR-Orgelfunktionsmodell
 
-Inhaltsverzeichnis
+### Inhaltsverzeichnis
 -	Beschreibung
 -	Kurzbeschreibung
 -	Entstehungskontext
