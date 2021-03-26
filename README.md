@@ -6,6 +6,7 @@
 -	Entstehungskontext
 -	Förderung
 -	Bedienung der Sprachauswahl
+-	Möglichkeiten in der Anwendung
 -	Credit
 -	Lizenz
 
@@ -24,6 +25,27 @@ Das Projekt „VR-Orgel“ wird durch die Zusammenarbeit mit dem Deutschen Museu
 
 #### Sprachauswahl
 Beim Einfügen neuer Sprachen in die vorbereitete Sprachauswahl müssen einige Dinge beachtet werden: innerhalb des Projektordners gibt es einen Ordner namens „Language“. In diesem Ordner befinden sich weitere Ordner, welche die jeweiligen Sprachen enthalten. Die Benennung dieser Ordner spielt keine Rolle. Es ist allerdings nicht möglich mehr als sechs Sprachen hinzuzufügen. Innerhalb der jeweiligen Sprachordner befindet sich eine txt-Datei. Die Bezeichnung dieser Datei („LangText.txt“) darf nicht geändert werden! Es enthält mehrere Codewörter, wie z.B. ToolMagGlass=Lupe. Der Begriff, welcher sich nach dem Gleichheitszeichen befinden, wird in das Spiel eingefügt (nach dem Gleichheitszeichen kein Leerzeichen!). Neben dieser Datei, befinden sich im Sprachenordner die jeweiligen Dateien der gesprochenen Sprachen. Dabei handelt es sich um .wav-Formate. Es kann nur dieses Format verwendet werden. Alle Dateien in den jeweiligen Ordnern müssen exakt den selben Dateinamen haben, wie in der deutschen Fassung. Es darf sich hier lediglich der Inhalt ändern. Auch dürfen die Sprachordner nur genau die genannten Dateien enthalten, da genau diese eingelesen werden (10 Sprachdateien, 1 Textdatei). 
+
+### Möglichkeiten in der Anwendung
+
+#### Teleportieren/Navigation
+
+#### Spielen der Orgel
+
+#### Erforschung des Musikinstruments 
+
+#### Neustart
+
+#### Wireframe
+
+#### Luftsimulation 
+
+#### Werkzeuge
+
+LUPE:
+
+SCHERE:
+
 
 ### Credit
 Auftraggeber: Deutsches Museum, München 
