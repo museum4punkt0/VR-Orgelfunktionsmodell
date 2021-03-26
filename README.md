@@ -6,6 +6,8 @@
 -	Entstehungskontext
 -	Förderung
 -	Bedienung der Sprachauswahl
+-	Credit
+-	Lizenz
 
 ### Beschreibung
 Die Appliaktion „VR-Orgel“ ist eine VR-Software, die dem Museumbesucher die Funktionsweise einer Orgel näher bringen soll. So haben Nutzer während ihrer Erfahrung in der virtuellen Realität, die Möglichkeit die Orgel zu spielen und die Töne mit Hilfe der Registerzüge zu beeinflussen. Eine weitere Möglichkeit ist die Orgel in ihre Einzelteile zu zerlegen und sich jegliche Teile genauer anzuschauen. Zudem haben die Intressenten, durch verschiedene Werkzeuge und Buttons die Möglichkeit den Blasebalg aufzuziehen und durch einen Klick auf den Button der Luftsimulation, die Möglichkeit dem Verlauf des Windes, welcher im Blasebalg beginnt und in der Verwirbelung der Pfeifen endet, nachzuvollziehen. Weitere Button, die dem Nutzer zur Verfügung stehen ist der Button des Gitternetz, das die gesamte Orgel als Wireframe darstellen lässt und die Stellen an denen man sich mit der VR-Brille/Kopf nähert genauer erscheinen. Der dritte und letzte Button ermöglicht dem Nutzer die Orgel in den Ausgangszustand zurück zu setzen. Neben den Button gibt es auch zwei Werkzeuge, die benutzt werden können. Ein Werkzeug ist die Lupe, diese kann der Nutzer auf einzelne Teile richten und eine Audiospur wird abgespielt, diese erklärt die Funktionsweise der einzelnen Bereiche. Bei dem zweiten Werkzeug handelt es sich um eine Schere, dies ermöglicht den Nutzer die Orgel nach belieben auseinander zu schneiden und sich das Innenleben des Musikinstruments genauer anzusehen. 
@@ -23,5 +25,9 @@ Das Projekt „VR-Orgel“ wird durch die Zusammenarbeit mit dem Deutschen Museu
 #### Sprachauswahl
 Beim Einfügen neuer Sprachen in die vorbereitete Sprachauswahl müssen einige Dinge beachtet werden: innerhalb des Projektordners gibt es einen Ordner namens „Language“. In diesem Ordner befinden sich weitere Ordner, welche die jeweiligen Sprachen enthalten. Die Benennung dieser Ordner spielt keine Rolle. Es ist allerdings nicht möglich mehr als sechs Sprachen hinzuzufügen. Innerhalb der jeweiligen Sprachordner befindet sich eine txt-Datei. Die Bezeichnung dieser Datei („LangText.txt“) darf nicht geändert werden! Es enthält mehrere Codewörter, wie z.B. ToolMagGlass=Lupe. Der Begriff, welcher sich nach dem Gleichheitszeichen befinden, wird in das Spiel eingefügt (nach dem Gleichheitszeichen kein Leerzeichen!). Neben dieser Datei, befinden sich im Sprachenordner die jeweiligen Dateien der gesprochenen Sprachen. Dabei handelt es sich um .wav-Formate. Es kann nur dieses Format verwendet werden. Alle Dateien in den jeweiligen Ordnern müssen exakt den selben Dateinamen haben, wie in der deutschen Fassung. Es darf sich hier lediglich der Inhalt ändern. Auch dürfen die Sprachordner nur genau die genannten Dateien enthalten, da genau diese eingelesen werden (10 Sprachdateien, 1 Textdatei). 
 
+### Credit
+Auftraggeber: Deutsches Museum, München 
+Umsetzung: Julius Girbing & Lisa-Marie Bauer
 
-
+### Lizenz 
+Copyright (c) 2020/2021, Deutsches Museum/museum4punkt0  & Julius Girbig, Lisa-Marie Bauer 
