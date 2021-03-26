@@ -38,10 +38,10 @@ Nutzer/innen haben die Möglichkeit das Musikinstrument zu spielen. Dafür muss 
 In der virtuellen Realität können die Anwender/innen das Musikinstrument erforschen, indem sie die Möglichkeit haben die Orgel auseinander zu bauen und jedes Bauteil individuell zu betrachten. Zudem können die Nutzer/innen den Blasebalg anhand eines Riemens aufziehen und mit Wind befüllen. 
 
 #### Neustart
-Am Rande des Musikinstruments befindet sich ein Button mit der Bezeichnung "Neustart", welche die Orgel auf den Ausgangszustand zurücksetzt
+Am Rande des Musikinstruments befindet sich ein Button mit der Bezeichnung "Neustart", welche die Orgel auf den Ausgangszustand zurücksetzt.
 
 #### Wireframe
-Ein weiterer Button steht dem Anwendenden zu Verfügung. Nachdem dieser Button geklickt wurde, erscheint das Musikinstrument als Wireframe. Zusätzlich wird die Stelle des Wireframes deutlicher, welcher sich am nächstenn zum Kopf befindet. 
+Ein weiterer Button steht dem Anwendenden zur Verfügung. Nachdem dieser Button geklickt wurde, erscheint das Musikinstrument als Wireframe. Zusätzlich wird die Stelle des Wireframes deutlicher, welcher sich am nächstenn zum Kopf befindet. 
 
 #### Luftsimulation 
 Der letzte Button zeigt die Luftsimulation in der Orgel. Es simuliert wie der Wind, welcher sich zunächst im Blasebalg, durch das Aufziehen, sammelt. Danach weiter nach oben zieht und den Raum unter der Tontraktur fühlt und wie der Wind durch die Tontrakturen zieht, wenn die Orgel gespielt werden würde. Zum Ende hin wird der Wind in den Pfeifen verwirbelt und ein Ton entsteht. 
@@ -51,7 +51,7 @@ Neben den genannten Möglichkeiten das Musikinstrument zu erforschen, stehen dem
 
 LUPE: Hinter ausgewählten Bauteilen befinden sich hinterlegten Tonspuren. Durch die Überlagerung mit der Lupe, ertönen Beschreibungen der ausgewählten Bauteile. 
 
-SCHERE: Die Schere bietet die Möglichkeit die Orgel zu durchschneien und die Bauteile bis hin zum gesamten Musikinstrument von innen zu betrachten. 
+SCHERE: Die Schere bietet die Möglichkeit die Orgel zu durchschneiden und die Bauteile bis hin zum gesamten Musikinstrument von innen zu betrachten. 
 
 
 ### Credit
