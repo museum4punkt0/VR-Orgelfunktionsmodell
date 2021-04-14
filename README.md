@@ -60,3 +60,5 @@ Umsetzung: Julius Girbing & Lisa-Marie Bauer
 
 ### Lizenz 
 Copyright (c) 2020/2021, Deutsches Museum/museum4punkt0  & Julius Girbig, Lisa-Marie Bauer 
+
+[Contribution guidelines for this project](docs/LICENSE.md)
