@@ -61,4 +61,4 @@ Umsetzung: Julius Girbing & Lisa-Marie Bauer
 ### Lizenz 
 Copyright (c) 2020/2021, Deutsches Museum/museum4punkt0  & Julius Girbig, Lisa-Marie Bauer 
 
-[Contribution guidelines for this project](docs/LICENSE.md)
+Hiermit wird jeder Person, die eine Kopie dieser Software und der zugehörigen Dokumentationsdateien (die "Software") erhält, kostenlos die Erlaubnis erteilt, uneingeschränkt mit der Software zu handeln, einschließlich und ohne Einschränkung der Rechte zur Nutzung, zum Kopieren, Modifizieren, Zusammenführen, Veröffentlichen, Verteilen, Unterlizenzieren und/oder Verkaufen von Kopien der Software, und Personen, denen die Software zur Verfügung gestellt wird, dies unter den Bedingungen der MIT-Lizenz zu gestatten: Näheres siehe hier in der [Lizenz Datei](docs/LICENSE.md)
