@@ -32,7 +32,7 @@ Eine SteamVR-kompatible VR-Brille. Die Anwendung wurde erfolgreich getestet mit 
 
 Software: Windows 7 oder höher, Steam, SteamVR
 
-Um die Anwendung zu bearbeiten kann der Inhalt, der über den folgenden Link zum Download bereit steht, in ein neues Projekt gezogen werden oder die .unitypackages-Dateien in ein Unity-Projekt importiert werden: (Quelle: https://dam.museum4punkt0.de/?r=1369&k=7ebbac39d6).
+Um die Anwendung zu bearbeiten können die Unreal-Projektdateien verwendet werden, die über den folgenden Link zum Download bereit stehen: (Quelle: https://dam.museum4punkt0.de/?r=1369&k=7ebbac39d6).
 
 Um die Anwendung in Betrieb zu nehmen, ist ein Build über diesen Link verfügbar: (Quelle: https://dam.museum4punkt0.de/?r=1488&k=6bafd07ab0).
 
