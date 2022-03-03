@@ -15,13 +15,22 @@ Die Appliaktion „VR-Orgel“ ist eine VR-Software, die dem Museumbesucher die 
 Die Software wurde mit der Unreal Engine erstellt und kann mit VR-Setup verbunden werden.  Die Entwicklung der Applikation wurde in Zusammenarbeit mit der Ludwig-Maximilians Universität und dem Deutschen Museums München im Rahmen des Kurses „PEM-Entwicklung von Mediensystemen“ und eines Einzelpraktikums begonnen und weitergeführt. Beendet wurde das Projekt in persönlicher Zusammenarbeit.
 
 ### Kurzbeschreibung
-„VR-Orgel“ ist eine VR-Software, die dem Nutzer ein umfassendes Erlebnis zur Erkundung einer Orgel auf verschiedenen Ebenen bietet. Die Appliaktion wurde mit der Unreal Engine im Rahmen einer Zusammenarbeit mit dem Deutschen Museum erstellt. 
+„VR-Orgelfunktionsmodell“ ist eine VR-Software, die dem Nutzer ein umfassendes Erlebnis zur Erkundung einer Orgel auf verschiedenen Ebenen bietet. Die Applikation wurde mit der Unreal Engine im Rahmen einer Zusammenarbeit mit dem Deutschen Museum erstellt. 
 
-### Entstehungskontext
-Die Idee für die Software entstand im Rahmen der Zusammenarbeit des Deutschen Museums in München und der Ludwig-Maximilians Universität (LMU) für den Kurs „PEM – Entwicklung von Mediensystemen“. Nach Beendigung dieses Kurses war das Projekt auf einen Status für einen erweitereten Prototypen. Zur Weiterführung der Projekts wurde die Zusammenarbeit in Form eines Einzelpraktikums an der LMU in enger Zusammenarbeit des Deutschen Museums weitergeführt. Am Ende dieses Einzelpraktikums war das Ergebnis eine funktionierende, aber noch ausbaufähige Software.  Daraufhin arbeiteten wir ohne die Universität in Zusammenhang mit dem Deutschen Museum weiter an der Software und werden diese nach Wunsch beenden. 
+### Entstehungskontext und Förderung
+Die Idee für die Software entstand im Rahmen der Zusammenarbeit des Deutschen Museums in München und der Ludwig-Maximilians Universität (LMU) für den Kurs „PEM – Entwicklung von Mediensystemen“. Nach Beendigung dieses Kurses wurde die Entwicklung an der Software in Form eines Einzelpraktikums an der LMU in enger Zusammenarbeit des Deutschen Museums weitergeführt. Am Ende dieses Einzelpraktikums war das Ergebnis eine funktionierende, aber noch ausbaufähige Software. Diese Software ist entstanden im Verbundprojekt museum4punkt0 – Digitale Strategien für das Museum der Zukunft, Teilprojekt 3D-Visualisierung: Perspektiven in der musealen Vermittlung. Das Projekt museum4punkt0 wird gefördert durch die Beauftragte der Bundesregierung für Kultur und Medien aufgrund eines Beschlusses des Deutschen Bundestages. Weitere Informationen: www.museum4punkt0.de
 
-### Förderung 
-Das Projekt „VR-Orgel“ wird durch die Zusammenarbeit mit dem Deutschen Museum in München gefördert. 
+### Installation und Inbetriebnahme
+
+Die Anwendung wurde mit /hier die Unitiy Version/ erstellt.
+
+Minimale Systemvoraussetzungen für die Entwicklung
+
+Minimale Systemvoraussetzungen für die Inbetriebnahme
+
+Um die Anwendung zu bearbeiten kann der Inhalt, der über den folgenden Link zum Download bereit steht, in ein neues Projekt gezogen werden oder die .unitypackages-Dateien in ein Unity-Projekt importiert werden: (Quelle:https://dam.museum4punkt0.de/?r=1369&k=7ebbac39d6)
+
+
 
 ### Bedienung der Sprachauswahl
 Beim Einfügen neuer Sprachen in die vorbereitete Sprachauswahl müssen einige Dinge beachtet werden: innerhalb des Projektordners gibt es einen Ordner namens „Language“. In diesem Ordner befinden sich weitere Ordner, welche die jeweiligen Sprachen enthalten. Die Benennung dieser Ordner spielt keine Rolle. Es ist allerdings nicht möglich mehr als sechs Sprachen hinzuzufügen. Innerhalb der jeweiligen Sprachordner befindet sich eine txt-Datei. Die Bezeichnung dieser Datei („LangText.txt“) darf nicht geändert werden! Es enthält mehrere Codewörter, wie z.B. ToolMagGlass=Lupe. Der Begriff, welcher sich nach dem Gleichheitszeichen befinden, wird in das Spiel eingefügt (nach dem Gleichheitszeichen kein Leerzeichen!). Neben dieser Datei, befinden sich im Sprachenordner die jeweiligen Dateien der gesprochenen Sprachen. Dabei handelt es sich um .wav-Formate. Es kann nur dieses Format verwendet werden. Alle Dateien in den jeweiligen Ordnern müssen exakt den selben Dateinamen haben, wie in der deutschen Fassung. Es darf sich hier lediglich der Inhalt ändern. Auch dürfen die Sprachordner nur genau die genannten Dateien enthalten, da genau diese eingelesen werden (10 Sprachdateien, 1 Textdatei). 
