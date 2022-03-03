@@ -1,6 +1,6 @@
 # VR-Orgelfunktionsmodell
 
-### Inhaltsverzeichnis
+## Inhaltsverzeichnis
 -	Beschreibung
 -	Kurzbeschreibung
 -	Entstehungskontext
@@ -10,23 +10,23 @@
 -	Credit
 -	Lizenz
 
-### Beschreibung
+## Beschreibung
 Die Appliaktion „VR-Orgel“ ist eine VR-Software, die dem Museumbesucher die Funktionsweise einer Orgel näher bringen soll. So haben Nutzer während ihrer Erfahrung in der virtuellen Realität, die Möglichkeit die Orgel zu spielen und die Töne mit Hilfe der Registerzüge zu beeinflussen. Eine weitere Möglichkeit ist die Orgel in ihre Einzelteile zu zerlegen und sich jegliche Teile genauer anzuschauen. Zudem haben die Intressenten, durch verschiedene Werkzeuge und Buttons die Möglichkeit den Blasebalg aufzuziehen und durch einen Klick auf den Button der Luftsimulation, die Möglichkeit dem Verlauf des Windes, welcher im Blasebalg beginnt und in der Verwirbelung der Pfeifen endet, nachzuvollziehen. Weitere Button, die dem Nutzer zur Verfügung stehen ist der Button des Gitternetz, das die gesamte Orgel als Wireframe darstellen lässt und die Stellen an denen man sich mit der VR-Brille/Kopf nähert genauer erscheinen. Der dritte und letzte Button ermöglicht dem Nutzer die Orgel in den Ausgangszustand zurück zu setzen. Neben den Button gibt es auch zwei Werkzeuge, die benutzt werden können. Ein Werkzeug ist die Lupe, diese kann der Nutzer auf einzelne Teile richten und eine Audiospur wird abgespielt, diese erklärt die Funktionsweise der einzelnen Bereiche. Bei dem zweiten Werkzeug handelt es sich um eine Schere, dies ermöglicht den Nutzer die Orgel nach belieben auseinander zu schneiden und sich das Innenleben des Musikinstruments genauer anzusehen. 
 Die Software wurde mit der Unreal Engine erstellt und kann mit VR-Setup verbunden werden.  Die Entwicklung der Applikation wurde in Zusammenarbeit mit der Ludwig-Maximilians Universität und dem Deutschen Museums München im Rahmen des Kurses „PEM-Entwicklung von Mediensystemen“ und eines Einzelpraktikums begonnen und weitergeführt. Beendet wurde das Projekt in persönlicher Zusammenarbeit.
 
-### Kurzbeschreibung
+## Kurzbeschreibung
 „VR-Orgelfunktionsmodell“ ist eine VR-Software, die dem Nutzer ein umfassendes Erlebnis zur Erkundung einer Orgel auf verschiedenen Ebenen bietet. Die Applikation wurde mit der Unreal Engine im Rahmen einer Zusammenarbeit mit dem Deutschen Museum erstellt. 
 
-### Entstehungskontext und Förderung
+## Entstehungskontext und Förderung
 Die Idee für die Software entstand im Rahmen der Zusammenarbeit des Deutschen Museums in München und der Ludwig-Maximilians Universität (LMU) für den Kurs „PEM – Entwicklung von Mediensystemen“. Nach Beendigung dieses Kurses wurde die Entwicklung an der Software in Form eines Einzelpraktikums an der LMU in enger Zusammenarbeit des Deutschen Museums weitergeführt. Am Ende dieses Einzelpraktikums war das Ergebnis eine funktionierende, aber noch ausbaufähige Software. Diese Software ist entstanden im Verbundprojekt museum4punkt0 – Digitale Strategien für das Museum der Zukunft, Teilprojekt 3D-Visualisierung: Perspektiven in der musealen Vermittlung. Das Projekt museum4punkt0 wird gefördert durch die Beauftragte der Bundesregierung für Kultur und Medien aufgrund eines Beschlusses des Deutschen Bundestages. Weitere Informationen: www.museum4punkt0.de
 
-### Installation und Inbetriebnahme
+## Installation und Inbetriebnahme
 
 Die Anwendung wurde mit /hier die Unitiy Version/ erstellt.
 
-## Minimale Systemvoraussetzungen für die Entwicklung
+### Minimale Systemvoraussetzungen für die Entwicklung
 
-## Minimale Systemvoraussetzungen für die Inbetriebnahme
+### Minimale Systemvoraussetzungen für die Inbetriebnahme
 
 Um die Anwendung zu bearbeiten kann der Inhalt, der über den folgenden Link zum Download bereit steht, in ein neues Projekt gezogen werden oder die .unitypackages-Dateien in ein Unity-Projekt importiert werden: (Quelle: https://dam.museum4punkt0.de/?r=1369&k=7ebbac39d6)
 
@@ -63,11 +63,11 @@ LUPE: Hinter ausgewählten Bauteilen befinden sich hinterlegten Tonspuren. Durch
 SCHERE: Die Schere bietet die Möglichkeit die Orgel zu durchschneiden und die Bauteile bis hin zum gesamten Musikinstrument von innen zu betrachten. 
 
 
-### Credit
+## Credit
 Auftraggeber: Deutsches Museum, München 
 Umsetzung: Julius Girbing & Lisa-Marie Bauer
 
-### Lizenz 
+## Lizenz 
 Copyright (c) 2020/2021, Deutsches Museum/museum4punkt0  & Julius Girbig, Lisa-Marie Bauer 
 
 Hiermit wird jeder Person, die eine Kopie dieser Software und der zugehörigen Dokumentationsdateien (die "Software") erhält, kostenlos die Erlaubnis erteilt, uneingeschränkt mit der Software zu handeln, einschließlich und ohne Einschränkung der Rechte zur Nutzung, zum Kopieren, Modifizieren, Zusammenführen, Veröffentlichen, Verteilen, Unterlizenzieren und/oder Verkaufen von Kopien der Software, und Personen, denen die Software zur Verfügung gestellt wird, dies unter den Bedingungen der MIT-Lizenz zu gestatten: Näheres siehe hier in der [Lizenz Datei](docs/LICENSE.md).
