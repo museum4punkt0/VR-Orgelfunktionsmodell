@@ -21,17 +21,18 @@ Die Software wurde mit der Unreal Engine erstellt und kann mit VR-Setup verbunde
 Die Idee für die Software entstand im Rahmen der Zusammenarbeit des Deutschen Museums in München und der Ludwig-Maximilians Universität (LMU) für den Kurs „PEM – Entwicklung von Mediensystemen“. Nach Beendigung dieses Kurses wurde die Entwicklung an der Software in Form eines Einzelpraktikums an der LMU in enger Zusammenarbeit des Deutschen Museums weitergeführt. Am Ende dieses Einzelpraktikums war das Ergebnis eine funktionierende, aber noch ausbaufähige Software. Diese Software ist entstanden im Verbundprojekt museum4punkt0 – Digitale Strategien für das Museum der Zukunft, Teilprojekt 3D-Visualisierung: Perspektiven in der musealen Vermittlung. Das Projekt museum4punkt0 wird gefördert durch die Beauftragte der Bundesregierung für Kultur und Medien aufgrund eines Beschlusses des Deutschen Bundestages. Weitere Informationen: www.museum4punkt0.de
 
 ## Installation und Inbetriebnahme
+Die Anwendung wurde mit der Unreal Engine Version 4.24 erstellt.
+Sie wird in ein beliebiges Verzeichnis kopiert und muss nicht installiert werden.
+Die Datei VR_Project.exe startet die Anwendung. Alle weiteren Hinweise zur Bedienung erfolgen innerhalb der Anwendung.
 
-Die Anwendung wurde mit /hier die Unitiy Version/ erstellt.
-
-### Minimale Systemvoraussetzungen für die Entwicklung
-
-### Minimale Systemvoraussetzungen für die Inbetriebnahme
+### Minimale Systemvoraussetzungen für die Entwicklung und Anwendung
+Ein VR-fähiger Gaming-Rechner
+Eine SteamVR-kompatible VR-Brille. Die Anwendung wurde erfolgreich getestet mit HTC Vive, Valve Index, und Oculus Rift
+Software: Windows 7 oder höher, Steam, SteamVR
 
 Um die Anwendung zu bearbeiten kann der Inhalt, der über den folgenden Link zum Download bereit steht, in ein neues Projekt gezogen werden oder die .unitypackages-Dateien in ein Unity-Projekt importiert werden: (Quelle: https://dam.museum4punkt0.de/?r=1369&k=7ebbac39d6).
 
 Um die Anwendung in Betrieb zu nehmen, ist ein Build über diesen Link verfügbar: (Quelle: https://dam.museum4punkt0.de/?r=1488&k=6bafd07ab0).
-
 
 
 ### Bedienung der Sprachauswahl
