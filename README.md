@@ -27,7 +27,9 @@ Die Datei VR_Project.exe startet die Anwendung. Alle weiteren Hinweise zur Bedie
 
 ### Minimale Systemvoraussetzungen für die Entwicklung und Anwendung
 Ein VR-fähiger Gaming-Rechner
+
 Eine SteamVR-kompatible VR-Brille. Die Anwendung wurde erfolgreich getestet mit HTC Vive, Valve Index, und Oculus Rift
+
 Software: Windows 7 oder höher, Steam, SteamVR
 
 Um die Anwendung zu bearbeiten kann der Inhalt, der über den folgenden Link zum Download bereit steht, in ein neues Projekt gezogen werden oder die .unitypackages-Dateien in ein Unity-Projekt importiert werden: (Quelle: https://dam.museum4punkt0.de/?r=1369&k=7ebbac39d6).
