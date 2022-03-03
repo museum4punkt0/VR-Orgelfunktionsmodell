@@ -28,7 +28,9 @@ Die Anwendung wurde mit /hier die Unitiy Version/ erstellt.
 
 ### Minimale Systemvoraussetzungen für die Inbetriebnahme
 
-Um die Anwendung zu bearbeiten kann der Inhalt, der über den folgenden Link zum Download bereit steht, in ein neues Projekt gezogen werden oder die .unitypackages-Dateien in ein Unity-Projekt importiert werden: (Quelle: https://dam.museum4punkt0.de/?r=1369&k=7ebbac39d6)
+Um die Anwendung zu bearbeiten kann der Inhalt, der über den folgenden Link zum Download bereit steht, in ein neues Projekt gezogen werden oder die .unitypackages-Dateien in ein Unity-Projekt importiert werden: (Quelle: https://dam.museum4punkt0.de/?r=1369&k=7ebbac39d6).
+
+Um die Anwendung in Betrieb zu nehmen, ist ein Build über diesen Link verfügbar: (Quelle: https://dam.museum4punkt0.de/?r=1488&k=6bafd07ab0).
 
 
 
