@@ -15,7 +15,7 @@ Die Appliaktion „VR-Orgelfunktionsmodell“ ist eine VR-Software, die dem Muse
 Die Software wurde mit der Unreal Engine erstellt und kann mit VR-Setup verbunden werden.  Die Entwicklung der Applikation wurde in Zusammenarbeit mit der Ludwig-Maximilians Universität und dem Deutschen Museums München im Rahmen des Kurses „PEM-Entwicklung von Mediensystemen“ und eines Einzelpraktikums begonnen und weitergeführt. Beendet wurde das Projekt in persönlicher Zusammenarbeit.
 
 ## Kurzbeschreibung
-„VR-Orgelfunktionsmodell“ ist eine VR-Software, die dem Nutzer ein umfassendes Erlebnis zur Erkundung einer Orgel auf verschiedenen Ebenen bietet. Die Applikation wurde mit der Unreal Engine im Rahmen einer Zusammenarbeit mit dem Deutschen Museum erstellt. 
+„VR-Orgelfunktionsmodell“ ist eine VR-Software, die dem Nutzer ein umfassendes Erlebnis zur Erkundung einer Orgel auf verschiedenen Ebenen bietet. Die Applikation wurde mit der Unreal Engine im Rahmen einer Zusammenarbeit mit dem Deutschen Museum von Meisterwerken der Naturwissenschaft und Technik (kurz: Deutsches Museum) erstellt. 
 
 ## Entstehungskontext und Förderung
 Die Idee für die Software entstand im Rahmen der Zusammenarbeit des Deutschen Museums in München und der Ludwig-Maximilians Universität (LMU) für den Kurs „PEM – Entwicklung von Mediensystemen“. Nach Beendigung dieses Kurses wurde die Entwicklung an der Software in Form eines Einzelpraktikums an der LMU in enger Zusammenarbeit des Deutschen Museums weitergeführt. Am Ende dieses Einzelpraktikums war das Ergebnis eine funktionierende, aber noch ausbaufähige Software. Diese Software ist entstanden im Verbundprojekt museum4punkt0 – Digitale Strategien für das Museum der Zukunft, Teilprojekt 3D-Visualisierung: Perspektiven in der musealen Vermittlung. Das Projekt museum4punkt0 wird gefördert durch die Beauftragte der Bundesregierung für Kultur und Medien aufgrund eines Beschlusses des Deutschen Bundestages. Weitere Informationen: www.museum4punkt0.de
@@ -32,9 +32,7 @@ Eine SteamVR-kompatible VR-Brille. Die Anwendung wurde erfolgreich getestet mit 
 
 Software: Windows 7 oder höher, Steam, SteamVR
 
-Um die Anwendung zu bearbeiten können die Unreal-Projektdateien verwendet werden, die über den folgenden Link zum Download bereit stehen: (Quelle: https://dam.museum4punkt0.de/?r=1369&k=7ebbac39d6).
-
-Um die Anwendung in Betrieb zu nehmen, ist ein Build über diesen Link verfügbar: (Quelle: https://dam.museum4punkt0.de/?r=1488&k=6bafd07ab0).
+Um die Anwendung für eine Nachnutzung kopieren und bearbeiten zu können, können die Projektdateien unter der unten angegebenen Lizenz vom Deutschen Museum bezogen werden. Kontakt: c.henkensiefken@deutsches-museum.de 
 
 
 ### Bedienung der Sprachauswahl
@@ -69,7 +67,7 @@ SCHERE: Die Schere bietet die Möglichkeit die Orgel zu durchschneiden und die B
 
 
 ## Credit
-Auftraggeber: Deutsches Museum, München 
+Auftraggeber: Deutsches Museum von Meisterwerken der Naturwissenschaft und Technik, München 
 Umsetzung: Julius Girbing & Lisa-Marie Bauer
 
 ## Lizenz 
