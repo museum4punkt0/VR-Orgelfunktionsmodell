@@ -30,7 +30,7 @@ Eine SteamVR-kompatible VR-Brille. Die Anwendung wurde erfolgreich getestet mit 
 
 Software: Windows 7 oder höher, Steam, SteamVR
 
-Um die Anwendung für eine Nachnutzung kopieren und bearbeiten zu können, können die Projektdateien unter der unten angegebenen Lizenz vom Deutschen Museum bezogen werden. Kontakt: c.henkensiefken@deutsches-museum.de 
+Die Anwendung sowie die Projektdateien, um die Anwendung für eine Nachnutzung kopieren und bearbeiten zu können, werden vom Deutschen Museum unter der unten angegebenen Lizenz zur Verfügung gestellt. Kontakt: c.henkensiefken@deutsches-museum.de 
 
 
 ### Bedienung der Sprachauswahl
