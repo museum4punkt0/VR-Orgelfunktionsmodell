@@ -1,14 +1,12 @@
 # VR-Orgelfunktionsmodell
 
 ## Inhaltsverzeichnis
--	Beschreibung
--	Kurzbeschreibung
--	Entstehungskontext
--	Förderung
--	Bedienung der Sprachauswahl
--	Möglichkeiten in der Anwendung
--	Credit
--	Lizenz
+- [Beschreibung](#beschreibung) </br>
+- [Kurzbeschreibung](#kurzbeschreibung)</br>
+- [Entstehungskontext und Förderung](#entstehungskontext-und-förderung)
+-	[Installation und Inbetriebnahme](#installation-und-inbetriebnahme)
+-	[Credit](#credit)
+-	[Lizenz](#lizenz)
 
 ## Beschreibung
 Die Appliaktion „VR-Orgelfunktionsmodell“ ist eine VR-Software, die dem Museumbesucher die Funktionsweise einer Orgel näher bringen soll. So haben Nutzer während ihrer Erfahrung in der virtuellen Realität, die Möglichkeit die Orgel zu spielen und die Töne mit Hilfe der Registerzüge zu beeinflussen. Eine weitere Möglichkeit ist die Orgel in ihre Einzelteile zu zerlegen und sich jegliche Teile genauer anzuschauen. Zudem haben die Intressenten, durch verschiedene Werkzeuge und Buttons die Möglichkeit den Blasebalg aufzuziehen und durch einen Klick auf den Button der Luftsimulation, die Möglichkeit dem Verlauf des Windes, welcher im Blasebalg beginnt und in der Verwirbelung der Pfeifen endet, nachzuvollziehen. Weitere Button, die dem Nutzer zur Verfügung stehen ist der Button des Gitternetz, das die gesamte Orgel als Wireframe darstellen lässt und die Stellen an denen man sich mit der VR-Brille/Kopf nähert genauer erscheinen. Der dritte und letzte Button ermöglicht dem Nutzer die Orgel in den Ausgangszustand zurück zu setzen. Neben den Button gibt es auch zwei Werkzeuge, die benutzt werden können. Ein Werkzeug ist die Lupe, diese kann der Nutzer auf einzelne Teile richten und eine Audiospur wird abgespielt, diese erklärt die Funktionsweise der einzelnen Bereiche. Bei dem zweiten Werkzeug handelt es sich um eine Schere, dies ermöglicht den Nutzer die Orgel nach belieben auseinander zu schneiden und sich das Innenleben des Musikinstruments genauer anzusehen. 
